@@ -15,7 +15,7 @@ c. simpledialog – To use pre-defined simple dialog boxes provided by  Tkinter.
 3.Command line(python used)
 4.interface->python->PymySQLConnector
 5.DATA STORE->MySQL->System req.P-IV&Above 1GB RAM Window-7&above python -3.6 & above Mysql 5.6& Above
-# Table in backend(ER-DIAGRAMA)
+# Table in backend(ER-DIAGRAM)
 1.BOOK
 BOOK_ID INT(PRE KEY)
 BNAME   VARCAR
